@@ -1,2 +1,5 @@
-# m5paper-practice1
- Draw image file on E-Ink.
+# M5Paper: Practice 1
+
+ Draw the image file.
+
+[](https://raw.githubusercontent.com/hollyhockberry/m5paper-practice1/images/top.jpg)
