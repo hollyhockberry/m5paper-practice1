@@ -14,10 +14,10 @@ Draw the image file.
 
 Press up(G37) or down(G39) button to move cursor.
 
-Press center(G38) button to show image file.
+Press center(G38) button to show image file.  
 Supported formats are Bitmap,Jpeg and PNG.
 
 ## Known issues :(
 
-The file list is updated only at startup.　
+The file list is updated only at startup.  
 Image format is determined by file extension.
