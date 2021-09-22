@@ -2,4 +2,4 @@
 
  Draw the image file.
 
-[](https://github.com/hollyhockberry/m5paper-practice1/blob/images/top.jpg?raw=true) 
+![Image](https://github.com/hollyhockberry/m5paper-practice1/blob/images/top.jpg?raw=true) 
